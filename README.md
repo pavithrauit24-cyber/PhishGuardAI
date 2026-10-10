@@ -25,7 +25,10 @@ This version uses transparent, rule-based heuristics. It is **not a trained AI m
 - Record a short demo showing the sample message, analysis result, and limitations.
 
 ## Hackathon track
-AI + Cybersecurity (select this track only if the final project aligns with the event prompt).
+AI + Cybersecurity  
 
 ## Team
-Add the actual team members and contributions before submission.
+ PAVITHRA U
+ NIVETHA R
+ MAHIMA
+ NETHRA B
